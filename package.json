@@ -1,0 +1,1 @@
+{"description":"xray VLESS+WS node on Velixir (TLS terminated at the Velixir edge)","engines":{"node":">=18"},"main":"index.js","name":"xray-velixir","private":true,"scripts":{"postinstall":"node download-xray.js","start":"node index.js"},"version":"1.0.0"}
